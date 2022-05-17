@@ -9,7 +9,7 @@
   
 <div style="display: inline_block" align="justify"><br/>
   
-Desenvolvedor Full Stack em formação no Boot Camp da Labenu. Iniciei meus
+Desenvolvedor Full Stack com formação no Boot Camp da Labenu. Iniciei meus
 estudos na área de maneira autônoma, com foco em HTML, CSS e JavaScript.
 Isso facilitou para que atualmente eu possa desenvolver com React.JS,
 TypeScript e APIs Rest.
