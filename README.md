@@ -24,9 +24,9 @@ oportunidade
  <br></br>
  
 <div style="display: inline_block">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanlopresti&show_icons=true&theme=dark&show)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanlopresti&theme=dark&show_icons=true) 
- <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanlopresti&layout=compact&theme=dark&show)
 
 </div>
