@@ -1,6 +1,6 @@
 <div align='center'>
 <h1 align='center'> 
- Olá, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" />! Eu sou o Renan
+ Olá, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="25px"/>! Eu sou o Renan
 </h1>
  <p align='center'><i>❝Nem todos podem se tornar grandes artistas, mas um grande artista pode vir de qualquer lugar.❞</i></p>
 </div>
